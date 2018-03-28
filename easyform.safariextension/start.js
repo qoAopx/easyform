@@ -16,7 +16,6 @@
                     var name = f.name;
                     var val = f.value;
                     var chk = localStorage.getItem(name);
-                    p
                     if (val === chk) {
                         f.checked = true;
                     }
