@@ -2,7 +2,7 @@
 name: イシューのテンプレ
 about: オリジナルのイシューのテンプレです
 title: ''
-labels: '依頼'
+labels: ''
 assignees: ''
 
 ---
