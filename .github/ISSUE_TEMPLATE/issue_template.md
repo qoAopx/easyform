@@ -1,9 +1,9 @@
 ---
 name: イシューのテンプレ
-about: オリジナルのイシューのテンプレです
-title: ''
-labels: ''
-assignees: ''
+about: オリジナルのイシューのテンプレです.github/ISSUE_TEMPLATE以下にあります。
+title: 'タイトル'
+labels: 'ラベル'
+assignees: '担当'
 
 ---
 
